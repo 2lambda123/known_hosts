@@ -1,0 +1,20 @@
+repo_name: 2lambda123/known_hosts
+report_id: e4ec17123caec1a76c7e0fec3fbb5b39
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:57:02+00:00'
+requested_by: brokenpylons
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/known_hosts
+  detection_source: Repo Metadata
